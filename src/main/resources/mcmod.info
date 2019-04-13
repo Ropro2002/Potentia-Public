@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potentia_client",
+  "name": "Potentia Client Public",
+  "description": "Client that allowes godmode on 2b2t",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Steve3", "Robeart"],
+  "credits": "To the guy who leaked it cus now its open source",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
